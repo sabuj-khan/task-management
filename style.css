@@ -1,0 +1,8 @@
+.project {
+    color: gray !important;
+}
+.project a {
+    text-decoration: none;
+    color: gray;
+    font-weight: 600;
+}
